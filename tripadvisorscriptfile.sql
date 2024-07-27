@@ -1,6 +1,6 @@
 /* CODE FIRST GIRLS PROJECT for CODING COURSE SPONSORED BY GCHQ (JULY 2024)
 
-/*Core requirements:
+/*Core and Advanced requirements:
 1) Create a database with minimum of 5 tables  
 2) Set Primary and Foreign Key contraints 
 3) Create a view that combines multiple tables in a logical way
@@ -12,7 +12,8 @@
 9) Create a view that uses at least 3-4 base tables
 10) Prepare an example query with group by and having to demonstrate how to extract data from your DB for 
 analysis. 
-11) Additonal code to query the database using taught material of the course to identify interesting insights
+Additional code:
+11) Queries on the database using taught material of the course to identify interesting insights including text manipulation
 */
 
 SECTION A. THIS CODE CREATES THE DATABASE FOR TRIPADVISOR REVIEWS. 

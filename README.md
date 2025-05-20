@@ -2,6 +2,14 @@
 
 This repository contains projects using SQL Lite in Jupyter Notebook and script files from MySQL Workbench. These files are also contained within the data analysis repository.
 
+## Code First Girls Final Project for Coding Kickstarter - Data and SQL sponsored by GCHQ
+
+Including:
+Building databases, retrieving, sorting and modifying data, grouping and cleaning data, joins and views and functions
+
+[Trip Advisor Database and Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/tripadvisorscriptfile.sql)
+
+
 ## Simple Projects Completed for Level 4 Cambridge Spark Course
 
 [Mental Health](https://github.com/Auckland68/Data-Analysis/blob/main/mental_health.ipynb)
@@ -14,10 +22,4 @@ This repository contains projects using SQL Lite in Jupyter Notebook and script 
 
 [Track Listing](https://github.com/Auckland68/Data-Analysis/blob/main/WDAMusic.sql)
 
-## Code First Girls Final Project for Coding Kickstarter - Data and SQL sponsored by GCHQ
-
-Including:
-Building databases, retrieving, sorting and modifying data, grouping and cleaning data, joins and views and functions
-
-[Trip Advisor Database and Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/tripadvisorscriptfile.sql)
 

@@ -15,6 +15,8 @@ Including:
 
 [Trip Advisor Database and Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/tripadvisorscriptfile.sql)  
 
+
+
 ### Simple Projects Completed for Level 4 Cambridge Spark Course
 
 [Mental Health](https://github.com/Auckland68/Data-Analysis/blob/main/mental_health.ipynb)
